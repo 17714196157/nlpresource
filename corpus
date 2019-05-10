@@ -18,3 +18,6 @@ https://www.jianshu.com/p/5dbb890a7318
 https://blog.just4fun.site/NLP-corpus.html
 同音异形词表
 http://www.baike.com/wiki/%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BC%82%E5%BD%A2%E8%AF%8D%E6%95%B4%E7%90%86%E8%A1%A8
+开源的高质量语言模型（统计加平滑）
+SRILM：https://www.isca-speech.org/archive/archive_papers/icslp_2002/i02_0901.pdf
+kenlm :https://github.com/kpu/kenlm
